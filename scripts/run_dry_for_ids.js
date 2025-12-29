@@ -1,8 +1,8 @@
-const { spawn } = require('child_process');
-const { join } = require('path');
-const { existsSync, renameSync, unlinkSync, writeFileSync, createWriteStream } = require('fs');
-const YAML = require('yaml');
-const Database = require('better-sqlite3');
+import { spawn } from 'child_process';
+import { join } from 'path';
+import { existsSync, renameSync, unlinkSync, writeFileSync, createWriteStream } from 'fs';
+import { stringify } from 'yaml';
+import Database from 'better-sqlite3';
 
 async function runId(id) {
   const webUiDb = join(__dirname, '..', 'web-ui', '.data', 'app.db');
@@ -34,7 +34,7 @@ async function runId(id) {
       hadBackup = true;
     }
     const cfg = JSON.parse(row.config);
-    const yamlText = YAML.stringify(cfg || {});
+    const yamlText = stringify(cfg || {});
     writeFileSync(configPath, yamlText, 'utf8');
 
     console.log(`Wrote config.yml for id=${id}, starting scheduler with DRY_RUN=1`);
