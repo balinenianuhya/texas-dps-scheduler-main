@@ -1,0 +1,8 @@
+[OUT] 
+> texas-dps-scheduler@5.3.2 start
+> ts-node --transpile-only src/index.ts
+
+[OUT] [33m[12/29/2025 9:30:29][39m [32mRunning in DRY_RUN mode — bookings will not be submitted[39m
+[OUT] [33m[12/29/2025 9:30:29][39m [32mTexas Scheduler v5.3.2 is starting...[39m
+[OUT] [33m[12/29/2025 9:30:29][39m [32mRequesting Available Location....[39m
+[ERR] ^C

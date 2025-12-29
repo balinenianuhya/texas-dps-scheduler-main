@@ -1,0 +1,9 @@
+[OUT] 
+> texas-dps-scheduler@5.3.2 start
+> ts-node --transpile-only src/index.ts
+
+[OUT] [33m[12/18/2025 5:55:50][39m [32mRunning in DRY_RUN mode — bookings will not be submitted[39m
+[OUT] [33m[12/18/2025 5:55:50][39m [32mTexas Scheduler v5.3.2 is starting...[39m
+[OUT] [33m[12/18/2025 5:55:50][39m [32mRequesting Available Location....[39m
+[ERR] Error: Login button did not become enabled within 30s and JS click failed
+    at C:\Users\LENOVO\Downloads\texas-dps-scheduler-main\texas-dps-scheduler-main\src\Browser\index.ts:85:35

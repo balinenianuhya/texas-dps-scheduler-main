@@ -1,0 +1,55 @@
+personalInfo:
+  loadFromEnv: false
+  firstName: Test
+  lastName: User
+  dob: 01/01/1990
+  email: test@example.com
+  lastFourSSN: "0000"
+  phoneNumber: ""
+  cardNumber: ""
+  typeId: 71
+location:
+  cityName: []
+  zipCode:
+    - "76226"
+  pickDPSLocation: false
+  miles: 20
+  preferredDays:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - Friday
+    - Thursday
+    - Wednesday
+    - Tuesday
+    - Monday
+  sameDay: false
+  daysAround:
+    startDate: 12/17/2025
+    start: 0
+    end: 7
+  timesAround:
+    start: 6
+    end: 18
+  specificDates: []
+  selectedLocations: []
+  selectedLocationDetails: []
+appSettings:
+  cancelIfExist: false
+  interval: 10000
+  webserver: false
+  headersTimeout: 50000
+  maxRetry: 3
+  captcha:
+    strategy: browser
+    solverOptions: {}
+  pushNotifcation:
+    enabled: false
+    baseURL: ""
+    topicName: ""
+    token: ""
+    strategy: browser

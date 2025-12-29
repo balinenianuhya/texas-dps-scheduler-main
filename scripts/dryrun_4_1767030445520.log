@@ -1,0 +1,86 @@
+[OUT] 
+> texas-dps-scheduler@5.3.2 start
+> ts-node --transpile-only src/index.ts
+
+[OUT] [33m[12/29/2025 9:47:27][39m [32mRunning in DRY_RUN mode — bookings will not be submitted[39m
+[OUT] [33m[12/29/2025 9:47:27][39m [32mTexas Scheduler v5.3.2 is starting...[39m
+[33m[12/29/2025 9:47:27][39m [32mRequesting Available Location....[39m
+[OUT] [33m[12/29/2025 9:48:00][39m [32mGet captcha token successfully![39m
+[OUT] [33m[12/29/2025 9:48:01][39m [32mResponse ID: 131080138[39m
+[OUT] [33m[12/29/2025 9:48:05][39m [32mFound 5 locations for zipcode: 76227[39m
+[OUT] [33m[12/29/2025 9:48:05][39m [32mFound 4 Available location that match your criteria[39m
+[33m[12/29/2025 9:48:05][39m [32mDenton, Lewisville, Carrollton Mega Center, Flower Mound[39m
+[OUT] [33m[12/29/2025 9:48:05][39m [32mChecking Available Location Dates....[39m
+--------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:48:11][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:48:16][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:48:22][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:48:30][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:48:37][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:48:42][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:48:51][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:48:58][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:49:03][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:49:09][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:49:15][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:49:24][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:49:30][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:49:36][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:49:42][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:49:48][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:49:57][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:50:02][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:50:09][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:50:17][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:50:23][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:50:29][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:50:34][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:50:40][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:50:46][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:50:51][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:50:57][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:51:06][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:51:13][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:51:18][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:51:24][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:51:30][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:51:38][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:51:44][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:51:49][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:51:55][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:52:05][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:52:11][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:52:17][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:52:24][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:52:30][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:52:35][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:52:43][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:52:49][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:52:55][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:53:01][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:53:07][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:53:15][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:53:20][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:53:26][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:53:32][39m [32mCarrollton Mega Center is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:53:39][39m [32mFlower Mound is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:53:45][39m [32mDenton is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] --------------------------------------------------------------------------------
+[OUT] [33m[12/29/2025 9:53:55][39m [32mLewisville is not Available in around 0-7 days from 12/29/2025! [39m
+[OUT] [33m[12/29/2025 9:54:01][39m [32mCarrollton Mega Center is Available on 12/30/2025 9:20 AM[39m
+[OUT] [33m[12/29/2025 9:54:01][39m [32mDRY_RUN: would hold slot 21389669 for Anuhya Balineni at Carrollton Mega Center on 12/30/2025 9:20 AM[39m
+[OUT] [33m[12/29/2025 9:54:02][39m [32mBooking slot....[39m
+[OUT] [33m[12/29/2025 9:54:02][39m [32mDRY_RUN: would book slot 21389669 at Carrollton Mega Center for Anuhya Balineni on 12/30/2025 9:20 AM[39m
