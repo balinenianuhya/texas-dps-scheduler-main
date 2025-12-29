@@ -1,0 +1,10 @@
+node_modules/*
+config.yml
+dist/*
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
+cache/*
+.env
+.tool-versions
+.cache
