@@ -8,3 +8,4 @@ cache/*
 .env
 .tool-versions
 .cache
+web-ui/.data/
